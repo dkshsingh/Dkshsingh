@@ -1,7 +1,7 @@
 ### Hi there , Here is what I'working on 👋
 
 
-**dkshsingh/Dkshsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**dkshsingh/Dkshsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
