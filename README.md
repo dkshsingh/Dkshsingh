@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 
 ## Passionate about new tech caareer
 ![im](https://user-images.githubusercontent.com/78050476/179518187-a64a3f91-17f3-49e4-bfb8-3cd1e62da89c.jpg)
+
+## Portfolio
+<img width="941" alt="img" src="https://user-images.githubusercontent.com/78050476/179521401-3c7ff2d4-0601-46e2-ad21-a282aa32229c.png">
