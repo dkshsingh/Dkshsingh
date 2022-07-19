@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...Life is soup, i'm fork.
 
 
-## Passionate about new tech caareer
+## Passionate about new tech career
 ![im](https://user-images.githubusercontent.com/78050476/179518187-a64a3f91-17f3-49e4-bfb8-3cd1e62da89c.jpg)
 
 ## Profile
