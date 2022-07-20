@@ -13,6 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...Life is soup, i'm fork.
 
+<!-- social media Handles -->
+![Linkedin Badge](https://img.shields.io/badge/Contact-LinkedIn-blue)
+https://www.linkedin.com/in/deeksha-singh-90a2ba1b2/
+
+
+![gmail](https://img.shields.io/badge/Contact-Gmail-red)
+www.singhdeeksha0606@gmail.com
 
 ## Passionate about new tech career
 ![im](https://user-images.githubusercontent.com/78050476/179518187-a64a3f91-17f3-49e4-bfb8-3cd1e62da89c.jpg)
