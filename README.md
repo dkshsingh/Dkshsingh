@@ -22,6 +22,11 @@ https://www.linkedin.com/in/deeksha-singh-90a2ba1b2/
 ![gmail](https://img.shields.io/badge/Contact-Gmail-red)
 www.singhdeeksha0606@gmail.com
 
+![HackerRank](https://img.shields.io/badge/Contact-HackerRank-green)
+https://www.hackerrank.com/singhdeeksha
+
+
+
 ## Passionate about new tech career
 ![im](https://user-images.githubusercontent.com/78050476/179518187-a64a3f91-17f3-49e4-bfb8-3cd1e62da89c.jpg)
 
