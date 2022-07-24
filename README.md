@@ -25,6 +25,8 @@ www.singhdeeksha0606@gmail.com
 ![HackerRank](https://img.shields.io/badge/Contact-HackerRank-green)
 https://www.hackerrank.com/singhdeeksha
 
+![LeetCode](https://img.shields.io/badge/Contact-Leetcode-%20yellow)
+https://leetcode.com/deeksha06/
 
 
 ## Passionate about new tech career
