@@ -1,9 +1,10 @@
-### Hi there , Here is what I'm working on 👋
+### Coding is a skill and developing that skill takes time, practice and reprtition.
+### Every time you code, you make it a little easier to develop the logic, So keep going! You are doing great.
 
 
 <!--**dkshsingh/Dkshsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+Here are about me:
 
 - 🔭 I’m currently working on ...tech-field
 - 🌱 I’m currently pursuing ...BTech
