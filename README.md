@@ -15,9 +15,12 @@ Here are about me:
 - ⚡ Fun fact: ...Life is soup, i'm fork.
 
 <!-- social media Handles -->
+
+![linktree](https://img.shields.io/badge/Linktree-Links-green)
+https://linktr.ee/dksh6
+
 ![Linkedin Badge](https://img.shields.io/badge/Contact-LinkedIn-blue)
 https://www.linkedin.com/in/deeksha-singh-90a2ba1b2/
-
 
 ![gmail](https://img.shields.io/badge/Contact-Gmail-red)
 www.singhdeeksha0606@gmail.com
