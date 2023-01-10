@@ -12,7 +12,7 @@ Here are about me:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...https://www.linkedin.com/in/deeksha-singh-90a2ba1b2/ 
 - 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...Life is soup, i'm fork.
+
 
 <!-- social media Handles -->
 
