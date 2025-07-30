@@ -32,6 +32,4 @@ www.singhdeeksha0606@gmail.com
 ## Passionate about new tech career
 ![im](https://user-images.githubusercontent.com/78050476/179518187-a64a3f91-17f3-49e4-bfb8-3cd1e62da89c.jpg)
 
-## Profile
-<img width="935" alt="a" src="https://user-images.githubusercontent.com/78050476/179736519-8f8c9419-ef11-42ef-8d1a-df1f6763df1d.png">
 
